@@ -1,6 +1,6 @@
 # Django Tailwind Stater Template 😍
 
- file:///home/fidele/Pictures/Screenshot%20from%202021-11-26%2014-45-26.png
+
 First install packages required to run tailwind using:
 
 <b>yarn</b>
