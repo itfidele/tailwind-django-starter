@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-django-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=production npx tailwindcss -i tailwind.css -o ./static/main.css --jit --minify -w"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "clean-css-cli": "^5.4.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
