@@ -1,7 +1,7 @@
 # Django Tailwind Stater Template 😍
 
 
-First install packages required to run tailwind using:
+First install packages required to run tailwind in <b>/tailwind/</b> folder then run:
 
 <b>yarn</b>
 ```
