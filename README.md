@@ -6,11 +6,11 @@ First install packages required to run tailwind in <b>cd frontend</b> folder the
 
 <b>yarn</b>
 ```sh
-yarn dev # This will start Django server and tailwind to generate your css
+yarn install && yarn dev # This will start Django server and tailwind to generate your css
 ```
 <b>npm</b>
 ```sh
-npm run dev # This will start Django server and tailwind to generate your css
+npm install && npm run dev # This will start Django server and tailwind to generate your css
 ```
 
 Remember to install python packages first that are in <b>requirements.txt</b> by running
