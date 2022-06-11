@@ -6,20 +6,10 @@ First install packages required to run tailwind in <b>cd frontend</b> folder the
 
 <b>yarn</b>
 ```
-yarn install
+yarn dev 
 ```
 <b>npm</b>
-```
-npm install
-```
-Start JIT to enable auto generate minified css file to be used in your django templates located in <b>/static/css/style.css</b> by running
-
-<b>yarn</b>
-```
-yarn dev
-```
-npm</b>
-```
+```sh
 npm run dev
 ```
 
